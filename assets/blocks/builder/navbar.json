@@ -1,0 +1,10 @@
+{
+    "ID": "menu_block",
+    "Title": "Blocks Builder Playground",
+    "Type": "appnavbar",
+    "Attributes": [
+        { "Name": "appname", "Value": "Blocks Builder - Playground" },
+        { "Name": "applogo", "Value": "./assets/images/logo.jpg" },
+        { "Name" : "cssfiles", "Value" : "/assets/styles/navbar.css" }
+    ]
+}
